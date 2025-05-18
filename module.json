@@ -1,0 +1,12 @@
+{
+  "name": "luminacityradio",
+  "title": "Lumina Radio",
+  "description": "A module that creates the Lumina Radio Playlist with client-side volume and playback controls.",
+  "version": "1.0.0",
+  "author": "Naba",
+  "scripts": ["scripts/main.js"],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "12",
+  "manifest": "https://github.com/xanaba/luminacityradio/releases/latest/download/module.json",
+  "download": "https://github.com/xanaba/luminacityradio/releases/download/1.0.0/module.zip"
+}
